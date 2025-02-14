@@ -1,2 +1,2 @@
-# Socket Programming Project in IK1203
+# Socket Programming Project in the course IK1203
 
