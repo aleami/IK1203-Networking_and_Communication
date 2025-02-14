@@ -1,1 +1,1 @@
-# KTH-IK1203-Project-in-Networking-and-Communication
+# Socket Programming Project in Network and Communication
