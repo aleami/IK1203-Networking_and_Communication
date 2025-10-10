@@ -35,6 +35,8 @@ java TCPAsk <host> <port> <message>
 ---
 
 ## 🧑‍💻 Author
-- Aleena Amir, KTH Royal Institute of Technology
+**Aleena Amir**
+
+KTH Royal Institute of Technology
 
 📧 aaamir@kth.se
