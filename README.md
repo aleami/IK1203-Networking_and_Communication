@@ -1,4 +1,3 @@
-
 # IK1203 — Networking and Communication (Socket Programming)
 
 This repository contains the programming assignments for the **IK1203 Networks and Communication** course at **KTH Royal Institute of Technology**.  
@@ -23,13 +22,12 @@ Implements a basic **HTTP server** that interprets HTTP GET requests and returns
 ### Task 4 — Concurrent HTTPAsk
 Improves the HTTP server to support **parallel client handling** and **better error management**.  
 **Files:** `ConcHTTPAsk.java`, `MyRunnable.java`
-___
+
+---
+
 ## How to Run
+
 Example for Task 1:
 ```bash
 javac TCPClient.java TCPAsk.java
 java TCPAsk <host> <port> <message>
-___
-##👩‍💻 Author
-Aleena Amir
-📧 aaamir@kth.se
