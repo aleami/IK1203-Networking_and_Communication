@@ -17,7 +17,7 @@ Extends the client to handle **multiple concurrent connections** using threads.
 **Files:** `TCPClient.java`, `MyRunnable.java`
 
 ### Task 3 — HTTPAsk
-Implements a basic **HTTP server** that interprets HTTP GET requests and returns appropriate responses.  
+Implements a basic **HTTP server** that interprets HTTP GET requests and returns responses.  
 **Files:** `HTTPAsk.java`
 
 ### Task 4 — Concurrent HTTPAsk
