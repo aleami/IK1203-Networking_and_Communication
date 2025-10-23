@@ -38,5 +38,3 @@ java TCPAsk <host> <port> <message>
 **Aleena Amir**
 
 KTH Royal Institute of Technology
-
-📧 aaamir@kth.se
